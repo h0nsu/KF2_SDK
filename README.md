@@ -1,5 +1,5 @@
 # KF2_SDK
-A source code of my KF2 projects.
+Sources of my KF2 projects.
 
 How to set up modifications:
 
